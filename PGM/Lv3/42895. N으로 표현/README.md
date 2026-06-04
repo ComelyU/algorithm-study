@@ -1,4 +1,4 @@
-# [Lv 2] N으로 표현 - 42895
+# [Lv 3] N으로 표현 - 42895
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
 
