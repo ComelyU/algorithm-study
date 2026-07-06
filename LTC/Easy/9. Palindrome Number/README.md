@@ -4,7 +4,7 @@
 
 ### Performance Summary
 
-Memory: 45.8 MB, Runtime: 4 ms
+Memory: 45.78 MB, Runtime: 4 ms
 
 ### Topic
 
