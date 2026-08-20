@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.util.StringTokenizer;
 
-public class PGM5185 {
+public class SWEA5185 {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new java.io.InputStreamReader(System.in));
